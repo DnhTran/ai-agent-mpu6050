@@ -1,0 +1,7 @@
+# Bỏ qua virtual env và các file biên dịch
+venv/
+__pycache__/
+*.pyc
+*.log
+logs/
+*.tflite
