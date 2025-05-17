@@ -87,6 +87,5 @@ Use tflite_runtime instead of full TensorFlow on Raspberry Pi for lightweight in
 
 The API currently has no frontend UI (use Postman or browser)
 
-d.
 
 
